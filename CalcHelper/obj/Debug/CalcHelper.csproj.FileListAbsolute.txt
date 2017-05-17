@@ -1,0 +1,5 @@
+C:\NarendraDocs\Sample Projects\Calculator\CalcHelper\bin\Debug\CalcHelper.dll
+C:\NarendraDocs\Sample Projects\Calculator\CalcHelper\bin\Debug\CalcHelper.pdb
+C:\NarendraDocs\Sample Projects\Calculator\CalcHelper\obj\Debug\CalcHelper.csprojResolveAssemblyReference.cache
+C:\NarendraDocs\Sample Projects\Calculator\CalcHelper\obj\Debug\CalcHelper.dll
+C:\NarendraDocs\Sample Projects\Calculator\CalcHelper\obj\Debug\CalcHelper.pdb
