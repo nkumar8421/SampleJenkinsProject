@@ -1,0 +1,9 @@
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\bin\Debug\CalcHelper.dll
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\bin\Debug\CalcHelper.pdb
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\NarendraDocs\Sample Projects\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
